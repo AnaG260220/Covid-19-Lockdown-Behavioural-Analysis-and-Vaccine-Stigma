@@ -1,0 +1,226 @@
+Gender,Age Group,Religion,Living,Education,Employment Status,Which of the following best describes your current working industry?,Medical Insurance,COVID,Deaths seen,Reasons,High Vaccine cost,False News ,Incubation period,Vaccination Status
+Female,18-44,Hindu,Urban,Bachelor degree or higher,Working both remotely and in person,Personal Business Owners,Yes,Did not contract COVID,Yes,To protect others,No,Yes,20 days,Partially Completed
+Male,18-44,Hindu,Urban,Bachelor degree or higher,Student,Other,No,Was hospitalized,Yes,To protect others,Yes,No,20 days,Partially Completed
+Male,18-44,Hindu,Urban,Bachelor degree or higher,Working both remotely and in person,Other,Yes,Did not contract COVID,Yes,To protect others,No,Yes,Don't know,Partially Completed
+Female,18-44,Hindu,Suburban,High school or equivalent,Student,Other,Yes,Did not contract COVID,Yes,To protect others,No,Yes,2-14 days,Partially Completed
+Male,18-44,Hindu,Urban,Bachelor degree or higher,Working both remotely and in person,Corporate job,Yes,Did not contract COVID,Yes,To protect others,No,No,2-14 days,Completed
+Male,18-44,Hindu,Urban,High school or equivalent,Student,Other,No,Did not contract COVID,Yes,To protect others,Maybe,Yes,2-14 days,Partially Completed
+Female,18-44,Hindu,Urban,Bachelor degree or higher,Working remotely only,Corporate job,Yes,Did not contract COVID,Yes,Self protection,Maybe,Not sure,2-14 days,Partially Completed
+Male,18-44,Hindu,Urban,Bachelor degree or higher,Working remotely only,Corporate job,Yes,Did not contract COVID,Yes,Not sure,No,Yes,Don't know,Completed
+Female,18-44,Muslim,Urban,Bachelor degree or higher,Not working,Other,Yes,Did not contract COVID,No,To protect others,No,Yes,2-14 days,Completed
+Female,18-44,Hindu,Suburban,High school or equivalent,Student,Other,Yes,Did not contract COVID,Yes,To protect others,No,Not sure,2-14 days,Completed
+Female,45-60,Hindu,Urban,Bachelor degree or higher,Working remotely only,Corporate job,No,Did not contract COVID,Yes,To protect others,No,Not sure,Don't know,Completed
+Male,18-44,Hindu,Urban,High school or equivalent,Student,Other,Yes,Did not contract COVID,No,To protect others,No,Yes,2-14 days,Completed
+Female,18-44,Hindu,Suburban,Bachelor degree or higher,Student,Corporate job,No,Did not contract COVID,Yes,To protect others,No,Yes,2-14 days,Completed
+Female,18-44,Muslim,Suburban,High school or equivalent,Student,Non-frontline essential worker,No,Did not contract COVID,Yes,To protect others,Maybe,Not sure,Don't know,Partially Completed
+Male,18-44,Hindu,Urban,Bachelor degree or higher,Student,Corporate job,Yes,Did not contract COVID,No,To protect others,No,Yes,2-14 days,Partially Completed
+Female,18-44,Christian,Urban,High school or equivalent,Student,Provide care to COVID patient,No,Did not contract COVID,Yes,To protect others,No,Yes,2-14 days,Completed
+Male,18-44,Hindu,Urban,Bachelor degree or higher,Working in person only,Other,Yes,Did not contract COVID,Yes,To protect others,Yes,Not sure,2-14 days,Completed
+Female,18-44,Hindu,Suburban,High school or equivalent,Student,Other,Yes,Did not contract COVID,Yes,To protect others,Yes,Not sure,Don't know,Completed
+Male,18-44,Hindu,Urban,High school or equivalent,Student,Other,Yes,Received medical care but was not hospitalized,Yes,To protect others,No,Yes,2-14 days,Partially Completed
+Male,18-44,Hindu,Suburban,High school or equivalent,Student,Other,No,Did not contract COVID,Yes,To protect others,No,No,2-14 days,Partially Completed
+Male,18-44,Hindu,Suburban,Bachelor degree or higher,Working remotely only,Corporate job,Yes,Did not contract COVID,Yes,To protect others,Yes,Yes,2-14 days,Partially Completed
+Male,18-44,Hindu,Urban,Bachelor degree or higher,Working in person only,Personal Business Owners,Yes,Received medical care but was not hospitalized,Yes,To protect others,No,Yes,Don't know,Partially Completed
+Male,18-44,Other,Urban,Bachelor degree or higher,Working both remotely and in person,Other,Yes,Did not contract COVID,Yes,Responsibility,No,Yes,Don't know,Completed
+Male,45-60,Muslim,Suburban,Bachelor degree or higher,Working remotely only,Other,Yes,Received medical care but was not hospitalized,Yes,To protect others,No,Yes,2-14 days,Partially Completed
+Female,18-44,Other,Suburban,Bachelor degree or higher,Working in person only,Corporate job,Yes,Did not contract COVID,No,Self protection,No,No,2-14 days,Partially Completed
+Female,18-44,Hindu,Suburban,Bachelor degree or higher,Working remotely only,Corporate job,Yes,Did not contract COVID,Yes,To protect others,No,Yes,20 days,Partially Completed
+Female,18-44,Muslim,Urban,High school or equivalent,Student,Corporate job,No,Did not contract COVID,Yes,Responsibility,Yes,Yes,2-14 days,Partially Completed
+Male,18-44,Hindu,Urban,Bachelor degree or higher,Working in person only,Personal Business Owners,Yes,Received medical care but was not hospitalized,Yes,To protect others,No,Yes,20-30 days,Partially Completed
+Female,18-44,Muslim,Urban,Bachelor degree or higher,Working remotely only,Corporate job,Yes,Did not contract COVID,Yes,To protect others,No,Yes,2-14 days,Partially Completed
+Male,18-44,Hindu,Suburban,High school or equivalent,Student,Other,No,Received medical care but was not hospitalized,Yes,To protect others,Maybe,Yes,2-14 days,Partially Completed
+Male,18-44,Hindu,Urban,High school or equivalent,Working remotely only,Other,No,Did not contract COVID,No,To protect others,No,Not sure,2-14 days,Completed
+Male,18-44,Hindu,Suburban,Bachelor degree or higher,Working remotely only,Corporate job,Yes,Did not contract COVID,Yes,To protect others,Yes,Not sure,Don't know,Completed
+Female,18-44,Hindu,Suburban,High school or equivalent,Student,Other,No,Did not contract COVID,No,To protect others,Maybe,Not sure,2-14 days,Partially Completed
+Female,18-44,Hindu,Urban,Bachelor degree or higher,Working in person only,Personal Business Owners,Yes,Did not contract COVID,Yes,To protect others,No,Yes,2-14 days,Partially Completed
+Male,18-44,Hindu,Urban,Bachelor degree or higher,Working both remotely and in person,Corporate job,Yes,Received medical care but was not hospitalized,Yes,To protect others,No,Yes,2-14 days,Partially Completed
+Female,18-44,Christian,Suburban,High school or equivalent,Working remotely only,Non-frontline essential worker,Yes,Did not contract COVID,Yes,To protect others,Maybe,Yes,2-14 days,Partially Completed
+Male,18-44,Hindu,Suburban,Bachelor degree or higher,Working remotely only,Corporate job,Yes,Did not contract COVID,Yes,To protect others,No,No,2-14 days,Completed
+Male,18-44,Muslim,Urban,High school or equivalent,Student,Other,No,Did not contract COVID,No,To protect others,Maybe,Not sure,20 days,Partially Completed
+Male,18-44,Other,Urban,Bachelor degree or higher,Working both remotely and in person,Corporate job,Yes,Did not contract COVID,Yes,To protect others,No,Not sure,2-14 days,Partially Completed
+Female,18-44,Hindu,Urban,Bachelor degree or higher,Student,Other,Yes,Did not contract COVID,No,To protect others,No,Not sure,Don't know,Partially Completed
+Female,18-44,Buddhist,Suburban,Bachelor degree or higher,Working remotely only,Other,No,Did not seek medical care,No,To protect others,Maybe,Yes,20-30 days,Partially Completed
+Female,18-44,Christian,Urban,High school or equivalent,Student,Other,No,Did not contract COVID,Yes,To protect others,No,Yes,2-14 days,Partially Completed
+Male,18-44,Hindu,Suburban,High school or equivalent,Student,Other,Yes,Did not contract COVID,Yes,To protect others,No,Not sure,20 days,Partially Completed
+Female,18-44,Hindu,Urban,Bachelor degree or higher,Voluntary leave,Corporate job,Yes,Did not contract COVID,Yes,To protect others,No,Yes,20 days,Completed
+Female,18-44,Hindu,Suburban,High school or equivalent,Student,Other,Yes,Did not contract COVID,Yes,To protect others,Maybe,Yes,2-14 days,Partially Completed
+Female,45-60,Hindu,Urban,Bachelor degree or higher,Not working,Other,Yes,Did not contract COVID,Yes,To protect others,No,Not sure,2-14 days,Completed
+Female,18-44,Christian,Suburban,High school or equivalent,Student,Other,No,Did not contract COVID,Yes,To protect others,No,Not sure,2-14 days,Partially Completed
+Female,18-44,Muslim,Urban,Bachelor degree or higher,Student,Other,Yes,Did not contract COVID,Yes,To protect others,No,Yes,Don't know,Completed
+Female,18-44,Christian,Urban,Bachelor degree or higher,Student,Other,Yes,Did not contract COVID,Yes,To protect others,No,Yes,2-14 days,Completed
+Female,18-44,Hindu,Suburban,High school or equivalent,Student,Other,Yes,Did not contract COVID,Yes,To protect others,Maybe,Yes,2-14 days,Partially Completed
+Female,18-44,Muslim,Urban,High school or equivalent,Not working,Other,No,Did not contract COVID,No,Responsibility,Maybe,Not sure,2-14 days,Partially Completed
+Male,18-44,Hindu,Urban,High school or equivalent,Student,Other,Yes,Did not contract COVID,Yes,To protect others,No,Not sure,20 days,Partially Completed
+Male,18-44,Hindu,Urban,Bachelor degree or higher,Student,Other,No,Received medical care but was not hospitalized,Yes,Self protection,No,Not sure,2-14 days,Partially Completed
+Male,18-44,Other,Urban,Bachelor degree or higher,Working both remotely and in person,Personal Business Owners,Yes,Did not contract COVID,Yes,To protect others,Yes,Yes,2-14 days,Partially Completed
+Male,45-60,Muslim,Suburban,High school or equivalent,Working both remotely and in person,Other,No,Did not contract COVID,No,Responsibility,No,Not sure,Don't know,Completed
+Male,18-44,No religion,Urban,Bachelor degree or higher,Student,Other,Yes,Did not contract COVID,Yes,To protect others,Maybe,Not sure,2-14 days,Completed
+Female,18-44,Hindu,Urban,Bachelor degree or higher,Student,Corporate job,No,Did not contract COVID,Yes,To protect others,No,Yes,20 days,Partially Completed
+Male,18-44,Hindu,Suburban,Bachelor degree or higher,Student,Other,No,Did not contract COVID,Yes,To protect others,No,Yes,2-14 days,Partially Completed
+Male,45-60,Christian,Suburban,High school or equivalent,Retired,Personal Business Owners,Yes,Received medical care but was not hospitalized,Yes,Responsibility,No,Yes,Don't know,Completed
+Female,18-44,Muslim,Urban,High school or equivalent,Not working,Other,No,Did not contract COVID,No,Self protection,No,Yes,2-14 days,Partially Completed
+Female,18-44,Hindu,Urban,High school or equivalent,Student,Other,Yes,Did not contract COVID,Yes,To protect others,No,Not sure,2-14 days,Completed
+Female,18-44,Hindu,Urban,High school or equivalent,Student,Other,Yes,Did not contract COVID,Yes,To protect others,Maybe,Not sure,2-14 days,Partially Completed
+Female,18-44,Hindu,Urban,Bachelor degree or higher,Student,Corporate job,Yes,Did not contract COVID,Yes,Self protection,Maybe,Not sure,Don't know,Partially Completed
+Female,18-44,Hindu,Urban,Bachelor degree or higher,Working remotely only,Corporate job,Yes,Did not contract COVID,Yes,Self protection,No,Yes,2-14 days,Partially Completed
+Female,18-44,Hindu,Urban,High school or equivalent,Student,Other,Yes,Did not contract COVID,Yes,To protect others,No,Not sure,2-14 days,Partially Completed
+Male,18-44,No religion,Urban,Bachelor degree or higher,Student,Other,Yes,Did not contract COVID,Yes,To protect others,No,Yes,2-14 days,Completed
+Male,18-44,Muslim,Urban,High school or equivalent,Student,Other,Yes,Did not contract COVID,Yes,To protect others,No,Yes,2-14 days,Partially Completed
+Male,18-44,Hindu,Suburban,High school or equivalent,Student,Other,No,Did not contract COVID,Yes,To protect others,No,Yes,Don't know,Partially Completed
+Female,18-44,Hindu,Urban,High school or equivalent,Student,Non-frontline essential worker,Yes,Did not contract COVID,No,To protect others,No,No,Don't know,Partially Completed
+Male,18-44,Hindu,Urban,High school or equivalent,Working both remotely and in person,Other,No,Did not contract COVID,No,To protect others,No,Yes,Don't know,Partially Completed
+Female,18-44,Muslim,Urban,High school or equivalent,Student,Other,Yes,Did not contract COVID,Yes,To protect others,No,Yes,2-14 days,Partially Completed
+Male,18-44,Other,Urban,High school or equivalent,Student,Personal Business Owners,Yes,Did not contract COVID,Yes,To protect others,No,Not sure,2-14 days,Partially Completed
+Female,18-44,Muslim,Urban,High school or equivalent,Student,Other,Yes,Did not contract COVID,Yes,To protect others,No,Yes,2-14 days,Partially Completed
+Female,45-60,Hindu,Urban,Bachelor degree or higher,Working in person only,Frontline essential worker ,Yes,Did not contract COVID,Yes,To protect others,Yes,Yes,2-14 days,Completed
+Female,45-60,Hindu,Urban,Bachelor degree or higher,Working in person only,Other,Yes,Did not contract COVID,Yes,Self protection,Yes,Yes,2-14 days,Completed
+Male,45-60,Hindu,Urban,Bachelor degree or higher,Working both remotely and in person,Provide care to COVID patient,Yes,Did not contract COVID,Yes,Self protection,Yes,Yes,2-14 days,Completed
+Male,18-44,Hindu,Urban,Bachelor degree or higher,Working remotely only,Corporate job,Yes,Received medical care but was not hospitalized,Yes,To protect others,No,Yes,2-14 days,Partially Completed
+Male,18-44,Hindu,Urban,High school or equivalent,Student,Other,No,Did not contract COVID,No,Self protection,No,Not sure,2-14 days,Partially Completed
+Female,45-60,Hindu,Urban,Bachelor degree or higher,Working both remotely and in person,Corporate job,Yes,Did not contract COVID,Yes,Responsibility,No,No,2-14 days,Completed
+Female,18-44,Hindu,Suburban,High school or equivalent,Student,Other,No,Did not contract COVID,Yes,To protect others,No,Yes,2-14 days,Partially Completed
+Female,18-44,Hindu,Urban,Bachelor degree or higher,Student,Other,Yes,Did not contract COVID,Yes,Self protection,Yes,Yes,20 days,Partially Completed
+Male,18-44,Hindu,Suburban,Bachelor degree or higher,Working both remotely and in person,Corporate job,Yes,Did not contract COVID,Yes,To protect others,No,Yes,2-14 days,Completed
+Female,18-44,Muslim,Urban,Bachelor degree or higher,Student,Other,No,Did not contract COVID,Yes,To protect others,No,Yes,2-14 days,Partially Completed
+Female,18-44,Hindu,Suburban,High school or equivalent,Student,Provide care to COVID patient,Yes,Did not contract COVID,Yes,To protect others,Maybe,Yes,Don't know,Partially Completed
+Male,18-44,Buddhist,Urban,Bachelor degree or higher,Working remotely only,Other,Yes,Did not contract COVID,Yes,To protect others,Yes,Not sure,20 days,Partially Completed
+Male,18-44,Hindu,Urban,High school or equivalent,Working in person only,Frontline essential worker ,Yes,Did not contract COVID,No,Responsibility,Maybe,No,2-14 days,Completed
+Male,18-44,Hindu,Urban,Bachelor degree or higher,Student,Other,Yes,Did not contract COVID,No,To protect others,No,No,2-14 days,Partially Completed
+Female,18-44,Hindu,Urban,High school or equivalent,Student,Other,No,Did not contract COVID,Yes,To protect others,No,Yes,Don't know,Completed
+Female,18-44,Hindu,Urban,Bachelor degree or higher,Working in person only,volunteer in a healthcare facility,No,Did not contract COVID,No,To protect others,Maybe,Not sure,2-14 days,Completed
+Female,18-44,Hindu,Urban,Bachelor degree or higher,Working both remotely and in person,Corporate job,No,Did not contract COVID,Yes,Self protection,Yes,No,2-14 days,Partially Completed
+Male,18-44,Hindu,Urban,Bachelor degree or higher,Student,Other,No,Did not contract COVID,Yes,To protect others,Yes,No,2-14 days,Partially Completed
+Female,45-60,Hindu,Urban,Bachelor degree or higher,Working in person only,Corporate job,Yes,Did not contract COVID,Yes,Self protection,Maybe,Not sure,2-14 days,Completed
+Female,45-60,Hindu,Urban,Bachelor degree or higher,Working in person only,Non-frontline essential worker,Yes,Did not contract COVID,Yes,Responsibility,No,Yes,20-30 days,Completed
+Male,18-44,Hindu,Urban,Bachelor degree or higher,Working both remotely and in person,Corporate job,Yes,Did not contract COVID,Yes,To protect others,Yes,Yes,20 days,Partially Completed
+Female,18-44,Sikh,Urban,Bachelor degree or higher,Working remotely only,Frontline essential worker ,Yes,Did not contract COVID,No,To protect others,Maybe,Yes,2-14 days,Partially Completed
+Male,Below 18,Hindu,Urban,High school or equivalent,Student,Other,Yes,Did not contract COVID,Yes,To protect others,No,No,20-30 days,Partially Completed
+Male,18-44,Hindu,Urban,Bachelor degree or higher,Working remotely only,Corporate job,No,Did not contract COVID,Yes,To protect others,No,No,20 days,Completed
+Female,18-44,Other,Urban,Bachelor degree or higher,Working both remotely and in person,Corporate job,No,Did not contract COVID,Yes,Responsibility,Maybe,Yes,20-30 days,Partially Completed
+Female,18-44,Hindu,Urban,High school or equivalent,Student,Other,No,Did not contract COVID,No,Self protection,No,Not sure,2-14 days,Completed
+Female,18-44,Hindu,Suburban,Bachelor degree or higher,Working both remotely and in person,Corporate job,Yes,Did not contract COVID,Yes,To protect others,No,Yes,2-14 days,Partially Completed
+Female,18-44,Hindu,Urban,Bachelor degree or higher,Working both remotely and in person,Corporate job,Yes,Did not contract COVID,Yes,To protect others,No,Not sure,2-14 days,Completed
+Female,18-44,Hindu,Urban,Bachelor degree or higher,Working both remotely and in person,Corporate job,Yes,Did not contract COVID,Yes,To protect others,No,Not sure,Don't know,Completed
+Male,18-44,Sikh,Urban,Bachelor degree or higher,Student,Other,Yes,Did not contract COVID,Yes,To protect others,No,Yes,2-14 days,Partially Completed
+Female,45-60,Christian,Urban,Bachelor degree or higher,Working both remotely and in person,Other,No,Did not contract COVID,No,Self protection,No,Yes,2-14 days,Partially Completed
+Male,45-60,Muslim,Urban,Bachelor degree or higher,Working both remotely and in person,Corporate job,Yes,Did not seek medical care,Yes,Self protection,No,No,Don't know,Completed
+Male,45-60,Hindu,Urban,Bachelor degree or higher,Working both remotely and in person,Other,Yes,Did not contract COVID,No,To protect others,Maybe,Yes,Don't know,Completed
+Male,45-60,Hindu,Urban,Bachelor degree or higher,Working both remotely and in person,Other,No,Did not contract COVID,No,To protect others,No,No,20-30 days,Completed
+Male,45-60,Hindu,Suburban,Bachelor degree or higher,Working both remotely and in person,Other,No,Did not contract COVID,No,Self protection,No,No,2-14 days,Completed
+Male,18-44,Hindu,Urban,Bachelor degree or higher,Working in person only,Other,Yes,Received medical care but was not hospitalized,Yes,Responsibility,No,Yes,2-14 days,Completed
+Female,18-44,Sikh,Urban,Bachelor degree or higher,Working remotely only,Other,Yes,Did not contract COVID,Yes,To protect others,No,Yes,2-14 days,Partially Completed
+Female,45-60,Hindu,Urban,Bachelor degree or higher,Working in person only,Other,No,Did not contract COVID,Yes,Responsibility,No,Yes,2-14 days,Completed
+Male,45-60,Hindu,Rural,Bachelor degree or higher,Working in person only,Other,No,Did not contract COVID,Yes,To protect others,No,Yes,2-14 days,Partially Completed
+Female,18-44,Hindu,Suburban,Bachelor degree or higher,Working remotely only,Corporate job,Yes,Did not contract COVID,Yes,To protect others,Maybe,No,2-14 days,Partially Completed
+Male,45-60,Hindu,Urban,Bachelor degree or higher,Working remotely only,Other,Yes,Did not contract COVID,Yes,To protect others,No,Yes,2-14 days,Completed
+Female,45-60,Hindu,Urban,Bachelor degree or higher,Working in person only,Other,Yes,Did not seek medical care,No,Self protection,No,Yes,2-14 days,Completed
+Male,18-44,Hindu,Urban,Bachelor degree or higher,Student,Other,No,Did not contract COVID,No,To protect others,No,No,2-14 days,Partially Completed
+Male,45-60,Other,Rural,Bachelor degree or higher,Working in person only,Frontline essential worker ,No,Did not contract COVID,No,To protect others,Yes,Yes,2-14 days,Completed
+Male,Below 18,Hindu,Suburban,High school or equivalent,Working in person only,volunteer in a healthcare facility,No,Did not seek medical care,Yes,To protect others,Yes,Yes,Don't know,Partially Completed
+Male,Below 18,Hindu,Urban,Less than high school,Student,Provide care to COVID patient,Yes,Was hospitalized,No,Not sure,Yes,Not sure,2-14 days,Completed
+Male,18-44,Hindu,Suburban,Bachelor degree or higher,Working both remotely and in person,Other,No,Did not contract COVID,Yes,To protect others,Yes,Yes,2-14 days,Partially Completed
+Female,18-44,Hindu,Urban,Bachelor degree or higher,Working both remotely and in person,Other,No,Did not contract COVID,Yes,Responsibility,Maybe,Yes,2-14 days,Partially Completed
+Male,45-60,Hindu,Rural,Bachelor degree or higher,Working both remotely and in person,Frontline essential worker ,Yes,Did not seek medical care,No,To protect others,Yes,Not sure,2-14 days,Completed
+Male,Below 18,Hindu,Suburban,Less than high school,Student,Other,No,Did not contract COVID,Yes,Self protection,No,Not sure,2-14 days,Completed
+Female,18-44,Hindu,Urban,Bachelor degree or higher,Working in person only,Corporate job,No,Received medical care but was not hospitalized,Yes,Self protection,No,No,2-14 days,Partially Completed
+Female,45-60,Hindu,Urban,Bachelor degree or higher,Working both remotely and in person,Other,No,Did not contract COVID,Yes,To protect others,Yes,Yes,Don't know,Completed
+Male,45-60,Hindu,Urban,Bachelor degree or higher,Working both remotely and in person,Corporate job,No,Did not contract COVID,No,Self protection,No,Yes,Don't know,Completed
+Male,18-44,Hindu,Urban,Bachelor degree or higher,Working both remotely and in person,Other,No,Did not contract COVID,Yes,To protect others,Maybe,No,Don't know,Partially Completed
+Female,45-60,Hindu,Urban,Bachelor degree or higher,Working remotely only,Other,Yes,Did not contract COVID,Yes,To protect others,No,Not sure,20 days,Completed
+Female,18-44,Hindu,Urban,Bachelor degree or higher,Working both remotely and in person,Other,No,Did not contract COVID,Yes,To protect others,Yes,Yes,2-14 days,Partially Completed
+Male,45-60,Hindu,Rural,Bachelor degree or higher,Working in person only,Other,No,Did not seek medical care,No,To protect others,Yes,Yes,Don't know,Completed
+Female,45-60,Buddhist,Suburban,Bachelor degree or higher,Working in person only,Other,No,Did not contract COVID,No,Responsibility,Yes,Yes,2-14 days,Partially Completed
+Male,18-44,Hindu,Urban,Bachelor degree or higher,Working in person only,Other,Yes,Did not contract COVID,Yes,Self protection,Maybe,No,Don't know,Partially Completed
+Female,45-60,Hindu,Urban,Bachelor degree or higher,Working in person only,Other,No,Did not contract COVID,Yes,To protect others,Maybe,Yes,Don't know,Partially Completed
+Female,18-44,Hindu,Urban,Bachelor degree or higher,Working in person only,Other,Yes,Did not contract COVID,Yes,To protect others,No,Not sure,2-14 days,Partially Completed
+Male,45-60,Hindu,Rural,High school or equivalent,Working both remotely and in person,Personal Business Owners,Yes,Did not seek medical care,Yes,To protect others,Maybe,No,2-14 days,Completed
+Male,45-60,Hindu,Suburban,Bachelor degree or higher,Working both remotely and in person,Other,No,Did not contract COVID,No,Responsibility,Maybe,Not sure,2-14 days,Completed
+Male,18-44,,Urban,High school or equivalent,Student,Other,Yes,Did not contract COVID,Yes,Not sure,Yes,Yes,2-14 days,Partially Completed
+Female,45-60,Buddhist,Urban,Bachelor degree or higher,Working in person only,Other,No,Did not contract COVID,Yes,Responsibility,No,Yes,Don't know,Completed
+Male,18-44,No religion,Urban,High school or equivalent,Student,Other,Yes,Did not contract COVID,Yes,Responsibility,Maybe,Not sure,20 days,Partially Completed
+Female,18-44,Muslim,Urban,High school or equivalent,Student,Other,No,Did not contract COVID,Yes,Responsibility,No,Yes,Don't know,Partially Completed
+Male,45-60,Hindu,Urban,Bachelor degree or higher,Working remotely only,Other,Yes,Did not contract COVID,Yes,Responsibility,No,Yes,2-14 days,Completed
+Male,45-60,Hindu,Rural,Bachelor degree or higher,Working both remotely and in person,Other,No,Did not contract COVID,Yes,Not sure,Maybe,Not sure,20-30 days,Completed
+Male,45-60,Hindu,Urban,Bachelor degree or higher,Working both remotely and in person,Frontline essential worker ,No,Did not contract COVID,Yes,To protect others,No,Yes,2-14 days,Completed
+Male,18-44,Hindu,Suburban,High school or equivalent,Student,Other,No,Did not contract COVID,No,Self protection,No,Yes,2-14 days,Partially Completed
+Female,45-60,Hindu,Urban,Bachelor degree or higher,Working remotely only,Non-frontline essential worker,Yes,Received medical care but was not hospitalized,Yes,To protect others,Maybe,Yes,Don't know,Partially Completed
+Female,18-44,Hindu,Urban,Bachelor degree or higher,Student,Corporate job,Yes,Did not contract COVID,No,Responsibility,No,Not sure,2-14 days,Partially Completed
+Female,18-44,Hindu,Urban,Bachelor degree or higher,Student,Other,No,Received medical care but was not hospitalized,Yes,Responsibility,No,Yes,Don't know,Partially Completed
+Male,18-44,Hindu,Suburban,Bachelor degree or higher,Working remotely only,Other,No,Did not contract COVID,Yes,To protect others,Yes,Not sure,2-14 days,Completed
+Female,60+,Sikh,Suburban,Bachelor degree or higher,Laid off,volunteer in a healthcare facility,Yes,Received medical care but was not hospitalized,No,To protect others,Yes,Yes,2-14 days,Completed
+Female,18-44,Muslim,Urban,Bachelor degree or higher,Working both remotely and in person,Non-frontline essential worker,Yes,Did not contract COVID,No,To protect others,No,Yes,2-14 days,Partially Completed
+Female,18-44,Hindu,Urban,Bachelor degree or higher,Working in person only,Corporate job,No,Did not contract COVID,No,To protect others,No,Yes,Don't know,Partially Completed
+Male,18-44,Hindu,Suburban,Bachelor degree or higher,Working both remotely and in person,Corporate job,Yes,Did not contract COVID,Yes,To protect others,No,Yes,Don't know,Completed
+Male,18-44,Hindu,Urban,Bachelor degree or higher,Working both remotely and in person,Non-frontline essential worker,Yes,Did not contract COVID,No,Self protection,No,No,2-14 days,Completed
+Female,18-44,Hindu,Suburban,Bachelor degree or higher,Working remotely only,Other,Yes,Did not contract COVID,Yes,To protect others,No,Yes,2-14 days,Completed
+Female,45-60,Hindu,Urban,Bachelor degree or higher,Working in person only,Other,No,Did not contract COVID,Yes,To protect others,No,Yes,2-14 days,Partially Completed
+Male,18-44,Hindu,Suburban,Bachelor degree or higher,Student,Other,Yes,Did not contract COVID,Yes,To protect others,Maybe,Yes,Don't know,Completed
+Male,18-44,Hindu,Urban,Bachelor degree or higher,Working remotely only,Corporate job,Yes,Did not contract COVID,Yes,To protect others,No,Yes,Don't know,Partially Completed
+Male,18-44,No religion,Urban,Bachelor degree or higher,Student,Other,No,Did not contract COVID,No,To protect others,Maybe,Not sure,Don't know,Partially Completed
+Female,18-44,Christian,Suburban,High school or equivalent,Working both remotely and in person,Corporate job,Yes,Did not contract COVID,Yes,To protect others,No,Yes,2-14 days,Partially Completed
+Male,Below 18,Hindu,Urban,High school or equivalent,Working in person only,volunteer in a healthcare facility,Yes,Did not seek medical care,No,Doctor's orders,Maybe,No,Don't know,Partially Completed
+Male,Below 18,Hindu,Urban,High school or equivalent,Working remotely only,Non-frontline essential worker,No,Did not seek medical care,No,To protect others,Yes,Yes,2-14 days,Partially Completed
+Male,45-60,Hindu,Urban,Bachelor degree or higher,Working in person only,Other,Yes,Did not contract COVID,No,Not sure,Maybe,Not sure,Don't know,Completed
+Female,45-60,Muslim,Urban,Bachelor degree or higher,Working both remotely and in person,Non-frontline essential worker,Yes,Did not contract COVID,Yes,To protect others,No,Yes,2-14 days,Completed
+Female,18-44,Hindu,Suburban,Bachelor degree or higher,Working remotely only,Personal Business Owners,Yes,Did not contract COVID,Yes,To protect others,No,Yes,20-30 days,Partially Completed
+Male,18-44,Muslim,Urban,High school or equivalent,Student,Other,No,Did not contract COVID,Yes,To protect others,No,Not sure,2-14 days,Completed
+Female,18-44,Muslim,Urban,High school or equivalent,Not working,Other,Yes,Did not contract COVID,No,To protect others,No,Not sure,Don't know,Partially Completed
+Male,18-44,Muslim,Urban,Bachelor degree or higher,Student,Personal Business Owners,No,Did not contract COVID,No,To protect others,Maybe,Not sure,2-14 days,Partially Completed
+Female,45-60,,Urban,Bachelor degree or higher,Working in person only,Other,No,Did not contract COVID,No,To protect others,No,Not sure,2-14 days,Completed
+Female,18-44,Hindu,Suburban,Bachelor degree or higher,Student,volunteer in a healthcare facility,Yes,Received medical care but was not hospitalized,Yes,Self protection,No,Yes,2-14 days,Partially Completed
+Female,18-44,Sikh,Suburban,Bachelor degree or higher,Student,Other,No,Did not contract COVID,Yes,Self protection,Maybe,Yes,2-14 days,Not taken
+Female,18-44,Muslim,Urban,Bachelor degree or higher,Student,Corporate job,No,Did not contract COVID,Yes,Self protection,Yes,Yes,2-14 days,Not taken
+Female,18-44,Muslim,Urban,Bachelor degree or higher,Student,Other,No,Did not contract COVID,No,Self protection,Yes,Yes,20-30 days,Not taken
+Male,18-44,Hindu,Urban,High school or equivalent,Student,Other,No,Did not contract COVID,No,To protect others,No,Not sure,2-14 days,Not taken
+Female,18-44,Muslim,Suburban,Bachelor degree or higher,Working remotely only,Corporate job,No,Did not contract COVID,Yes,To protect others,No,Yes,2-14 days,Not taken
+Male,18-44,Muslim,Rural,Bachelor degree or higher,Student,Frontline essential worker ,No,Did not seek medical care,No,To protect others,Maybe,Yes,2-14 days,Not taken
+Female,18-44,Muslim,Urban,Bachelor degree or higher,Student,Other,Yes,Did not contract COVID,Yes,To protect others,No,Yes,2-14 days,Not taken
+Female,18-44,Hindu,Suburban,High school or equivalent,Student,volunteer in a healthcare facility,No,Did not contract COVID,Yes,Responsibility,No,Yes,2-14 days,Not taken
+Female,18-44,Muslim,Urban,High school or equivalent,Student,Non-frontline essential worker ,No,Did not contract COVID,Yes,Not sure,Yes,Not sure,2-14 days,Not taken
+Female,Below 18,Muslim,Urban,High school or equivalent,Student,Other,No,Did not contract COVID,Yes,To protect others,Maybe,Yes,2-14 days,Not taken
+Female,18-44,Hindu,Suburban,High school or equivalent,Student,Personal Business Owners,No,Did not contract COVID,No,To protect others,Yes,Not sure,2-14 days,Not taken
+Male,18-44,Muslim,Urban,High school or equivalent,Student,Other,No,Did not contract COVID,Yes,To protect others,Maybe,Not sure,Don't know,Not taken
+Female,18-44,Muslim,Urban,Bachelor degree or higher,Working remotely only,Non-frontline essential worker ,No,Did not contract COVID,Yes,Responsibility,Maybe,Yes,2-14 days,Not taken
+Female,18-44,Hindu,Suburban,Bachelor degree or higher,Student,Other,No,Did not contract COVID,Yes,To protect others,No,Not sure,Don't know,Not taken
+Male,18-44,Hindu,Urban,High school or equivalent,Student,Non-frontline essential worker ,Yes,Did not contract COVID,No,To protect others,Yes,Yes,Don't know,Not taken
+Female,18-44,Hindu,Urban,Bachelor degree or higher,Student,Other,Yes,Did not contract COVID,Yes,Not sure,Maybe,Not sure,Don't know,Not taken
+Female,18-44,Muslim,Urban,Bachelor degree or higher,Working in person only,volunteer in a healthcare facility,No,Did not contract COVID,Yes,To protect others,No,Yes,Don't know,Not taken
+Male,18-44,Hindu,Suburban,High school or equivalent,Student,Other,No,Did not contract COVID,Yes,To protect others,No,Yes,2-14 days,Not taken
+Female,18-44,Muslim,Urban,Bachelor degree or higher,Student,Other,No,Did not contract COVID,No,To protect others,Maybe,Not sure,20 days,Not taken
+Male,18-44,Christian,Urban,Bachelor degree or higher,Working both remotely and in person,Corporate job,Yes,Was hospitalized,No,Responsibility,No,Yes,2-14 days,Not taken
+Female,Below 18,Hindu,Urban,Less than high school,Student,Other,Yes,Did not seek medical care,No,To protect others,Maybe,No,2-14 days,Not taken
+Male,Below 18,Hindu,Urban,Less than high school,Student,Other,No,Did not contract COVID,No,To protect others,Maybe,Not sure,2-14 days,Not taken
+Female,Below 18,Hindu,Urban,Less than high school,Student,Other,Yes,Did not contract COVID,No,To protect others,No,Not sure,20-30 days,Not taken
+Male,Below 18,Hindu,Urban,Less than high school,Student,Other,No,Did not contract COVID,No,To protect others,No,Not sure,2-14 days,Not taken
+Male,Below 18,Hindu,Urban,Less than high school,Student,Other,No,Did not contract COVID,No,Self protection,Maybe,Yes,2-14 days,Not taken
+Female,Below 18,Muslim,Urban,Less than high school,Student,Other,Yes,Did not contract COVID,No,To protect others,No,Yes,2-14 days,Not taken
+Female,Below 18,Muslim,Urban,Less than high school,Student,Other,Yes,Did not contract COVID,No,To protect others,No,Yes,Don't know,Not taken
+Male,Below 18,Hindu,Urban,Less than high school,Student,Other,Yes,Did not contract COVID,No,To protect others,No,Yes,Don't know,Not taken
+Male,Below 18,Hindu,Suburban,Less than high school,Student,Other,No,Received medical care but was not hospitalized,No,Self protection,No,Yes,2-14 days,Not taken
+Male,Below 18,Hindu,Suburban,High school or equivalent,Student,Other,Yes,Did not contract COVID,No,Not sure,Maybe,Not sure,20 days,Not taken
+Male,Below 18,Hindu,Suburban,Less than high school,Retired,Frontline essential worker ,No,Did not seek medical care,No,Self protection,Maybe,Yes,2-14 days,Not taken
+Male,Below 18,Hindu,Urban,High school or equivalent,Student,Non-frontline essential worker ,No,Did not seek medical care,Yes,To protect others,Yes,Yes,Don't know,Not taken
+Male,Below 18,Hindu,Urban,Less than high school,Student,volunteer in a healthcare facility,Yes,Did not contract COVID,No,To protect others,No,Yes,2-14 days,Not taken
+Female,Below 18,Hindu,Urban,Less than high school,Student,Other,No,Did not contract COVID,No,To protect others,Maybe,Yes,2-14 days,Not taken
+Female,Below 18,Hindu,Rural,Less than high school,Working both remotely and in person,Other,Yes,Received medical care but was not hospitalized,No,To protect others,Maybe,Not sure,2-14 days,Not taken
+Male,Below 18,Hindu,Urban,High school or equivalent,Student,volunteer in a healthcare facility,No,Did not contract COVID,No,To protect others,Maybe,No,2-14 days,Not taken
+Male,Below 18,Muslim,Rural,High school or equivalent,Student,Frontline essential worker ,No,Did not contract COVID,Yes,To protect others,No,Yes,Don't know,Not taken
+Female,18-44,Hindu,Suburban,Bachelor degree or higher,Working remotely only,Other,Yes,Did not contract COVID,Yes,To protect others,No,Not sure,2-14 days,Not taken
+Male,Below 18,Hindu,Urban,Less than high school,Student,Other,No,Did not contract COVID,Yes,Not sure,No,Yes,2-14 days,Not taken
+Female,Below 18,Hindu,Urban,High school or equivalent,Student,Other,No,Did not contract COVID,Yes,To protect others,No,Yes,2-14 days,Not taken
+Male,Below 18,Hindu,Urban,High school or equivalent,Student,Other,No,Did not contract COVID,Yes,To protect others,No,Yes,20 days,Not taken
+Female,Below 18,Christian,Urban,High school or equivalent,Student,Other,No,Did not contract COVID,No,To protect others,No,Yes,Don't know,Not taken
+Female,Below 18,Hindu,Urban,High school or equivalent,Student,Other,No,Did not contract COVID,No,Responsibility,No,Not sure,Don't know,Not taken
+Male,Below 18,Hindu,Urban,High school or equivalent,Student,Other,Yes,Did not seek medical care,No,To protect others,No,No,20 days,Not taken
+Female,Below 18,Hindu,Urban,Less than high school,Student,Non-frontline essential worker ,No,Did not contract COVID,No,Responsibility,No,Yes,2-14 days,Not taken
+Male,Below 18,Hindu,Urban,Less than high school,Student,Personal Business Owners,No,Did not contract COVID,No,To protect others,No,Yes,20-30 days,Not taken
+Female,Below 18,Buddhist,Urban,High school or equivalent,Working in person only,Corporate job,No,Did not contract COVID,Yes,To protect others,Maybe,Yes,20-30 days,Not taken
+Female,Below 18,Hindu,Urban,Less than high school,Student,volunteer in a healthcare facility,No,Did not contract COVID,No,To protect others,Yes,Yes,Don't know,Not taken
+Male,18-44,Hindu,Urban,Bachelor degree or higher,Working both remotely and in person,Other,Yes,Did not contract COVID,Yes,To protect others,Yes,Yes,2-14 days,Not taken
+Female,Below 18,Hindu,Urban,High school or equivalent,Student,Other,No,Did not contract COVID,Yes,To protect others,No,Not sure,20 days,Not taken
+Male,Below 18,Muslim,Urban,High school or equivalent,Student,Other,No,Did not contract COVID,Yes,To protect others,No,Yes,2-14 days,Not taken
+Male,Below 18,Hindu,Urban,Less than high school,Student,Other,No,Did not contract COVID,Yes,To protect others,Yes,Yes,2-14 days,Not taken
+Male,Below 18,Hindu,Urban,High school or equivalent,Working in person only,Provide care to COVID patient,Yes,Received medical care but was not hospitalized,Yes,Not sure,No,Not sure,2-14 days,Not taken
+Female,18-44,Muslim,Suburban,High school or equivalent,Student,Other,No,Did not contract COVID,Yes,To protect others,No,No,Don't know,Not taken
+Female,45-60,No religion,Urban,Bachelor degree or higher,Working both remotely and in person,Corporate job,Yes,Did not contract COVID,Yes,Not sure,Maybe,Yes,2-14 days,Not taken
+Male,60+,Muslim,Urban,Bachelor degree or higher,Working in person only,Corporate job,Yes,Did not contract COVID,No,To protect others,No,Yes,2-14 days,Not taken
